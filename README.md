@@ -15,9 +15,9 @@ El conjunto de datos incluye información detallada de los productos vendidos, c
 
 ## Tecnologías Utilizadas
 
-* Python: Lenguaje principal utilizado para la manipulación y an{alisis de los datos.
+* Python: Lenguaje principal utilizado para la manipulación y análisis de los datos.
 * Pandas: Librería empleada para la gestión de estructuras de datos.
-* Matpltlib: Herramienta utilizada para la creación de gráficos.
+* Matplotlib: Herramienta utilizada para la creación de gráficos.
 * Github: Plataforma utilizada para el almacenamiento del proyecto.
 
 ## Características y Funcionalidades
